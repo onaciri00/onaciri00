@@ -25,7 +25,7 @@ I am a passionate software engineer specializing in full-stack web development. 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](www.linkedin.com/in/oussama-naciri-131a1a27b)
-
+[![onaciri's 42 stats](https://badge.mediaplus.ma/darkblue/onaciri)](https://github.com/oakoudad/badge42)
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
