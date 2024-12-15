@@ -2,8 +2,6 @@
 
 I am a passionate software engineer specializing in full-stack web development. My coding journey has taken me through both low-level and high-level programming, as well as system-level development. However, it is the world of web development—both back-end and front-end—that truly captures my interest! Nothing compares to the satisfaction of crafting responsive, intuitive, and dynamic web interfaces that deliver exceptional user experiences.
 
-![<onaciri00>'s Stats](https://github-readme-stats.vercel.app/api?oanciri00=<onaciri00>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 My skills:
 
 - ✨ I began my journey by solving problems using C and C++, relying solely on what you might call "vanilla C" to build a strong foundation in programming.
