@@ -9,8 +9,11 @@ I am a passionate software engineer specializing in full-stack web development. 
 - 🌐 Back-End Development: Proficient in Python programming with expertise in Django and Django Rest Framework, enabling me to build robust, scalable, and efficient server-side solutions. Additionally, I have strong experience working with PostgreSQL for database management and integration.
 - I have extensive experience with Docker, from building images from scratch to deploying and managing them using Docker Compose.
 - 🌐 Using Nginx is essential in the web development world, but my teammates and I took it a step further by creating a simple web server capable of handling GET, POST, and other useful HTTP methods.
-- 🤝  am a proud member of the global 42 network and the 1337 community, actively contributing to the tech world and fostering innovation.
+- 🤝 I am a proud member of the global 42 network and the 1337 community, actively contributing to the tech world and fostering innovation.
+
   
+  [![onaciri's 42 stats](https://badge.mediaplus.ma/darkblue/onaciri)](https://github.com/oakoudad/badge42)
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,nginx,docker,c,python,git,postgresql)](https://skillicons.dev)
 
@@ -25,7 +28,6 @@ I am a passionate software engineer specializing in full-stack web development. 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](www.linkedin.com/in/oussama-naciri-131a1a27b)
-[![onaciri's 42 stats](https://badge.mediaplus.ma/darkblue/onaciri)](https://github.com/oakoudad/badge42)
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
